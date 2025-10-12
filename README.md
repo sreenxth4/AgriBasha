@@ -1,1 +1,1 @@
-# AgriMitra
+Quick start with run commands, .env variables, and demo steps for agriculture scenarios; includes curl tests and latency tips.
