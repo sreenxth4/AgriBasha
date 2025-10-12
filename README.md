@@ -31,7 +31,7 @@ Voice, Document, and Text modes for quick switching.
 - **Frontend:** React (Vite + TypeScript)
 - **Backend:** Python (Flask, Flask-CORS)
 - **APIs:** Bhashini / AnuvaadHub (ASR, MT, TTS, OCR)
-- **Deployment:** Render / Replit / Localhost
+- **Deployment:** Localhost
 
 **Flowchart**
 
